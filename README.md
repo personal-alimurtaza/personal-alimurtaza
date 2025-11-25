@@ -13,6 +13,12 @@
 
 - 📫 How to reach me **personal.alimurtaza@hotmail.com**
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=personal-alimurtaza&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=personal-alimurtaza&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=personal-alimurtaza&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=personal-alimurtaza&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=personal-alimurtaza&theme=vision_friendly_dark&utcOffset=8)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/ali_murtaza_edbf172b529b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ali_murtaza_edbf172b529b" height="30" width="40" /></a>
